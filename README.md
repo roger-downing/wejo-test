@@ -35,9 +35,11 @@ If payment types are as follows:
 6. What is the total amount of fares paid in cash?
 
 Using the pickup time to indicate the date of a trip:
+
 7. Which day was the quietest?
 
 Now you must also use the second CSV file "taxi+_zone_lookup.csv".
+
 8. How many trips started in the borough of Queens?
 9. How many trips ended in Staten Island?
 10. How many trips started in Manhattan on April 4th and ended in Brooklyn?
