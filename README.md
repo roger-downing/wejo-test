@@ -48,6 +48,6 @@ Now you must also use the second CSV file "taxi+_zone_lookup.csv".
 
 An optional final question:
 Geospatial data is a very important part of what Wejo do. Choropleths are maps where different parts are coloured according to a key or a scale. Included in this repository is a file
-called "taxi_zones.zip" which is some geospatial data in ESRO Shapefile format.
+called "taxi_zones.zip" which is some geospatial data in ESRI Shapefile format.
 
 Can you also use the file "taxi_zones.zip" to make a map of New York where the different boroughs are coloured according to the total number of trips starting there?
