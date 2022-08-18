@@ -1,0 +1,15 @@
+n == 25
+
+for i in range(n)
+    my_string = ''
+    neither = True
+    if i % 3 = 0:
+       my_string = my_string + "fizz"
+       neither = False
+    if i % 5 = 0:
+       my_string = my_string + "buzz"
+       neither = False
+    if neither == True:
+    my_string = i
+
+    print my_string
